@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="www.linkedin.com/in/karla-pichon-aguila" target="blank">
+    <a href="https://www.linkedin.com/in/karla-pichon-aguila/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
      alt="karla pichon aguila" height="20" width="30" />
     </a>
