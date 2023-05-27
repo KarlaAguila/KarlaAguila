@@ -7,11 +7,11 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://linkedin.com/in/karla pichon aguila" target="blank">
+    <a href="www.linkedin.com/in/karla-pichon-aguila" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
      alt="karla pichon aguila" height="20" width="30" />
     </a>
-    <a href="https://instagram.com/karla_scamander" target="blank">
+    <a href="https://instagram.com/karla_scamander/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
     alt="karla_scamander" height="20" width="30" />
     </a>
