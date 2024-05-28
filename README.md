@@ -19,7 +19,7 @@
 
 ---
    
-- 🌱 I’m currently learning **React.js, MySQL, Javascript**
+- 🌱 I’m currently learning **R, MySQL, Javascript**
 - 📫 How to reach me **karla.pichon.aguila4@gmail.com**
 
 
