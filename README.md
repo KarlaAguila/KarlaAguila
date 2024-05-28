@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center"> Hi 👋, I'm Karla </h1>
-    <h3 align="center"> I'm passionate about web development and specializing as a Frontend Developer. 
+    <h3 align="center"> 
         I'm always seeking new opportunities for learning and growth in this ever-evolving field.
     </h3>
 
